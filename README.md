@@ -5,6 +5,7 @@ AniTalker的一个CPU封装
 
 
 在master分支下下载所需文件，另需ckpts文件夹下的文件，根据原github项目，可以参考如下下载：
+
 [中文用户] For Chinese users, we recommend you visit [here](https://pan.baidu.com/s/1gqTPmoJ3QwKbGkqgMXM3Jw?pwd=antk) to download.
 
 ```
