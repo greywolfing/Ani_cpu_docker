@@ -4,7 +4,22 @@ AniTalker的一个CPU封装
 原github项目：https://github.com/X-LANCE/AniTalker
 
 
-在master分支下下载所需文件
+在master分支下下载所需文件，另需ckpts文件夹下的文件，根据原github项目，可以参考如下下载：
+[中文用户] For Chinese users, we recommend you visit [here](https://pan.baidu.com/s/1gqTPmoJ3QwKbGkqgMXM3Jw?pwd=antk) to download.
+
+```
+ckpts/
+├── chinese-hubert-large
+├──── config.json
+├──── preprocessor_config.json
+├──── pytorch_model.bin
+├── stage1.ckpt
+├── stage2_pose_only_mfcc.ckpt
+├── stage2_full_control_mfcc.ckpt
+├── stage2_audio_only_hubert.ckpt
+├── stage2_pose_only_hubert.ckpt
+└── stage2_full_control_hubert.ckpt
+```
 
 1.运行Dockerfile构建镜像
 
