@@ -4,6 +4,7 @@ AniTalker的一个CPU封装
 原github项目：https://github.com/X-LANCE/AniTalker
 
 
+在master分支下下载所需文件
 
 1.运行Dockerfile构建镜像
 
