@@ -22,6 +22,8 @@ ckpts/
 └── stage2_full_control_hubert.ckpt
 ```
 
+在原项目的基础上，下载Dockerfile及code/demo_final.py即可运行
+
 1.运行Dockerfile构建镜像
 
 2.运行类似以下语句进行测试（注意将路径进行修改）：
